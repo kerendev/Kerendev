@@ -1,4 +1,4 @@
-# 😺 Emily Keren
+# 😺 Emily Cutrim
 **`Engenheira de Software Backend`**
 Me chamo Emily Keren Cutrim Silverio, tenho 23 anos e sou natural do Distrito Federal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. 
 
